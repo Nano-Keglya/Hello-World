@@ -5,18 +5,8 @@ Hello, World!!!
 # Example:
 
 Python:
-`python_example`
+**[Python_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.py)
 Pascal:
-`pascal_example`
+[Pascal_example](https://github.com/Nano-Keglya/HW/blob/master/Hello_world.pas)
 Html:
-`html_example`
-
-
-
-
-
-
-
-.. _python_example: https://github.com/Nano-Keglya/HW/blob/master/hello_world.py
-.. _pascal_example: https://github.com/Nano-Keglya/HW/blob/master/Hello_world.pas
-.. _html_example: https://github.com/Nano-Keglya/HW/blob/master/hello_world.html
+[Html_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.html)**
