@@ -6,7 +6,7 @@ Hello, World!!!
 
 Python:
 **[Python_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.py)
-Pascal:
+h3Pascal:
 [Pascal_example](https://github.com/Nano-Keglya/HW/blob/master/Hello_world.pas)
-Html:
+h3Html:
 [Html_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.html)**
