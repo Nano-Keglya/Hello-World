@@ -12,3 +12,5 @@ Hello, World!!!
 [Html_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.html)
 ### **C**
 [C_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.c)
+### **C++**
+[C++_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.cpp)
