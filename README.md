@@ -1,5 +1,5 @@
 # Hello, World! #
-##### First program #####
+## First program ##
 Hello, World!!!
 
 
