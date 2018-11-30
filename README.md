@@ -1,6 +1,6 @@
 # Hello, World! #
 ## First program ##
-Hello, World!!!
+Hello, World!
 
 
 # Example:
