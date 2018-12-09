@@ -25,3 +25,5 @@ Your first program: "Hello, World!" in various programming languages.
 [kotlin_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.kt)
 ### **GO**
 [go_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.go)
+### **Node JS**
+[nodejs_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world_node.js)
