@@ -4,7 +4,7 @@
 > :laughing:Your first program: "Hello, World!" in various programming languages.:laughing:
 
 
-# :hear_no_evil: Example: :hear_no_evil: №
+# :hear_no_evil: Example: :hear_no_evil: #
 
 ### :snake: **Python:**
 [Python_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.py)
