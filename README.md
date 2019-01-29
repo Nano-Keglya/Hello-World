@@ -4,27 +4,27 @@
 > :laughing:Your first program: "Hello, World!" in various programming languages.:laughing:
 
 
-# Example:
+# :hear_no_evil: Example: :hear_no_evil: №
 
-### **Python:**
+### :snake: **Python:**
 [Python_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.py)
-### **Pascal:**
+### :squirrel: **Pascal:**
 [Pascal_example](https://github.com/Nano-Keglya/HW/blob/master/Hello_world.pas)
-### **Html:**
+### :rooster: **Html:**
 [Html_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.html)
-### **JavaScript**
+### :sun_with_face: **JavaScript**
 [js_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.js)
-### **PHP:**
+### :ox: **PHP:**
 [Php_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.php)
-### **C**
+### :bird: **C**
 [C_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.c)
-### **C++**
+### :baby_chick: **C++**
 [C++_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.cpp)
-### **JAVA**
+### :frog: **JAVA**
 [java_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.java)
-### **Kotlin**
+### :cat: **Kotlin**
 [kotlin_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.kt)
-### **GO**
+### :ram: **GO**
 [go_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.go)
-### **Node JS**
+### :rat: **Node JS**
 [nodejs_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world_node.js)
