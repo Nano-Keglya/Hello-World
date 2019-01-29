@@ -1,6 +1,7 @@
 # :scream: Hello, World! :scream: #
-## First program ##
-:laughing:Your first program: "Hello, World!" in various programming languages.:laughing:
+
+
+> :laughing:Your first program: "Hello, World!" in various programming languages.:laughing:
 
 
 # Example:
