@@ -1,6 +1,6 @@
 # Hello, World! #
 ## First program ##
-Your first program: "Hello, World!" in various programming languages.
+:laughing:Your first program: "Hello, World!" in various programming languages.:laughing:
 
 
 # Example:
