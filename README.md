@@ -28,3 +28,5 @@
 [go_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.go)
 ### :rat: **Node JS**
 [nodejs_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world_node.js)
+## 🦔💨 **C#**
+[c#_example](https://github.com/Nano-Keglya/HW/blob/master/hello_world.cs)
